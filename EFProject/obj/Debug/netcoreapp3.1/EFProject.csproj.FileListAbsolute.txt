@@ -1,0 +1,9 @@
+D:\ramya\sqlserver\EFWork\EFProject\bin\Debug\netcoreapp3.1\EFProject.deps.json
+D:\ramya\sqlserver\EFWork\EFProject\bin\Debug\netcoreapp3.1\EFProject.dll
+D:\ramya\sqlserver\EFWork\EFProject\obj\Debug\netcoreapp3.1\EFProject.AssemblyInfoInputs.cache
+D:\ramya\sqlserver\EFWork\EFProject\obj\Debug\netcoreapp3.1\EFProject.AssemblyInfo.cs
+D:\ramya\sqlserver\EFWork\EFProject\bin\Debug\netcoreapp3.1\EFProject.runtimeconfig.json
+D:\ramya\sqlserver\EFWork\EFProject\bin\Debug\netcoreapp3.1\EFProject.runtimeconfig.dev.json
+D:\ramya\sqlserver\EFWork\EFProject\bin\Debug\netcoreapp3.1\EFProject.pdb
+D:\ramya\sqlserver\EFWork\EFProject\obj\Debug\netcoreapp3.1\EFProject.dll
+D:\ramya\sqlserver\EFWork\EFProject\obj\Debug\netcoreapp3.1\EFProject.pdb
